@@ -1,7 +1,7 @@
 ## About me
 I'm a young developer that programs in C# and C++ and I have 2.5 years of experience in C#/.NET.    
 Currently developing Android applications using Xamarin.Forms and learning more about C++ and shaders in general.   
-Creating new projects almost every month (prototype inside Unity or doing a C# project).
+Creating new projects almost every month (prototypes inside Unity or doing C# projects).
 
 ## Languages that I have knowledge
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
