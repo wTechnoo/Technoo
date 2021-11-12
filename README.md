@@ -19,6 +19,4 @@ https://github.com/vortexdevsoftware/RRE3D
 <details>
   <summary> Contact me </summary>
 Gmail: technoocontact@gmail.com
-  
-Discord: Technoo#1676
 </details>
