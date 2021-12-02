@@ -1,5 +1,5 @@
 ## About me
-I'm a young developer that programs in C# and C++ and I have 2.5 years of experience in C#/.NET.    
+I'm a young developer that codes in C# and C++ and I have 2.5 years of experience in C#/.NET.    
 Currently busy developing Android applications using Xamarin.Forms and learning more about C++ and shaders in general.   
 Creating new projects almost every month (prototypes inside Unity or doing C# projects).
 
