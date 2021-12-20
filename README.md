@@ -9,12 +9,9 @@ I am also doing freelancing and creating new projects almost every month, protot
 ## Technologies that I have knowledge
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-### Projects that I am/Was working on
+### Projects that I am/was working on
 (Was working on, may continue)    
 https://github.com/wTechnoo/ConsoleButtons   
-
-(Development currently paused)    
-https://github.com/vortexdevsoftware/RRE3D
 
 <details>
   <summary> Contact me </summary>
