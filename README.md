@@ -11,7 +11,7 @@ I am also doing freelancing on fiverr and creating new projects almost every mon
 
 ### Projects that I am/was working on
 (Working on, updating ~monthly)    
-https://github.com/wTechnoo/ConsoleButtons   
+https://github.com/wTechnoo/ConsoleButtons
 
 <details>
   <summary> Contact me </summary>
@@ -19,3 +19,7 @@ Gmail: technoocontact@gmail.com
   
 Fiverr: www.fiverr.com/technooz
 </details>
+
+<h2 align="center">In development</h2>
+<img align="center" src="https://user-images.githubusercontent.com/71846381/150906156-6d2adfad-ce0f-42af-b3b6-806537086f6e.png" width="950" height="400">
+<h3 align="center">Releasing in Unity Store!</h3>
