@@ -21,5 +21,5 @@ Fiverr: www.fiverr.com/technooz
 </details>
 
 <h2 align="center">In development</h2>
-<img align="center" src="https://user-images.githubusercontent.com/71846381/150906156-6d2adfad-ce0f-42af-b3b6-806537086f6e.png" width="950" height="400">
+<img align="center" src="https://user-images.githubusercontent.com/71846381/150906156-6d2adfad-ce0f-42af-b3b6-806537086f6e.png" width="1000" height="400">
 <h3 align="center">Releasing in Unity Store!</h3>
