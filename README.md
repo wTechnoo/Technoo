@@ -17,12 +17,3 @@ Gmail: technoocontact@gmail.com
   
 Fiverr: www.fiverr.com/technooz
 </details>
-
-<h2 align="center">UIMetaballs Release!</h2>
-
-<a href="https://assetstore.unity.com/packages/2d/gui/uimetaballs-211282#releases">
-<img align="center" src="https://user-images.githubusercontent.com/71846381/150906841-ad046e82-7f5b-47ca-8061-26e72b11029d.png" width="1000" height="350">
-</a>
-
-
-<h3 align="center">Check now at Unity Store!</h3>
