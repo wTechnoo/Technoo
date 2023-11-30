@@ -1,5 +1,5 @@
 ## About me
-C# and C++ Developer that likes messing around with shaders!
+C# (mainly) and C++ Developer
 
 ## Languages that I have knowledge
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
