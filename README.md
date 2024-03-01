@@ -14,5 +14,5 @@ HLSL, GLSL, Compute Shaders
   <summary> Contact me </summary>
 
   Gmail: technoocontact@gmail.com  
-Fiverr: www.fiverr.com/technooz
+Fiverr: www.fiverr.com/technooz (inactive)
 </details>
